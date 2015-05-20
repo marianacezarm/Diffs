@@ -1,0 +1,60 @@
+<cadastroDomiciliarTransport xmlns="http://esus.ufsc.br/v2000/cadastrodomiciliar">
+	<dadosGerais xmlns="">
+		<Item xmlns="http://esus.ufsc.br/v2000/headercdscadastro">
+			<cnsProfissional xmlns="">0</cnsProfissional>
+			<cnesUnidadeSaude xmlns="">6150934</cnesUnidadeSaude>
+			<ineEquipe xmlns=""/>
+			<microarea xmlns="">0</microarea>
+			<dataAtendimento xmlns="">0</dataAtendimento>
+			<codigoIbgeMunicipio xmlns="">4202404</codigoIbgeMunicipio>
+		</Item>
+	</dadosGerais>
+	<enderecoLocalPermanencia xmlns="">
+		<Item xmlns="http://esus.ufsc.br/v2000/enderecolocalpermanencia">
+			<tipoLogradouroNumeroDne xmlns=""/>
+			<nomeLogradouro xmlns="">Sete de Setembro</nomeLogradouro>
+			<numero xmlns="">25</numero>
+			<complemento xmlns="">CASA DUDA</complemento>
+			<bairro xmlns="">Centro</bairro>
+			<codigoIbgeMunicipio xmlns="">4202404</codigoIbgeMunicipio>
+			<numeroDneUf xmlns="">SC</numeroDneUf>
+			<cep xmlns="">89010-201</cep>
+			<telResidencial xmlns=""/>
+			<telReferencial xmlns=""/>
+			<stSemNumero xmlns="">false</stSemNumero>
+		</Item>
+	</enderecoLocalPermanencia>
+	<condicaoMoradia xmlns="">
+		<Item xmlns="http://esus.ufsc.br/v2000/condicaomoradia">
+			<nuComodos xmlns="">25</nuComodos>
+			<nuMoradores xmlns="">10</nuMoradores>
+			<situacaoMoradiaPosseTerra xmlns="">80</situacaoMoradiaPosseTerra>
+			<localizacao xmlns="">84</localizacao>
+			<tipoDomicilio xmlns="">85</tipoDomicilio>
+			<areaProducaoRural xmlns="">101</areaProducaoRural>
+			<tipoAcessoDomicilio xmlns="">92</tipoAcessoDomicilio>
+			<materialPredominanteParedesExtDomicilio xmlns="">116</materialPredominanteParedesExtDomicilio>
+			<abastecimentoAgua xmlns="">121</abastecimentoAgua>
+			<tratamentoAguaDomicilio xmlns="">100</tratamentoAguaDomicilio>
+			<formaEscoamentoBanheiro xmlns="">122</formaEscoamentoBanheiro>
+			<destinoLixo xmlns="">94</destinoLixo>
+			<stDiponibilidadeEnergiaeletrica xmlns="">false</stDiponibilidadeEnergiaeletrica>
+		</Item>
+	</condicaoMoradia>
+	<stAnimaisNoDomicilio xmlns="">false</stAnimaisNoDomicilio>
+	<quantosAnimaisNoDomicilio xmlns="">0</quantosAnimaisNoDomicilio>
+	<familias xmlns="">
+		<numeroProntuario/>
+		<numeroCnsResponsavel/>
+		<dataNascimentoResponsavel>0</dataNascimentoResponsavel>
+		<rendaFamiliar>0</rendaFamiliar>
+		<numeroMembrosFamilia>0</numeroMembrosFamilia>
+		<resideDesde>0</resideDesde>
+		<stMudanca>false</stMudanca>
+	</familias>
+	<tpCdsOrigem xmlns="">3</tpCdsOrigem>
+	<uuid xmlns="">00000000-0000-0000-0000-000000000000</uuid>
+	<uuidFichaOriginadora xmlns=""/>
+	<fichaAtualizada xmlns="">true</fichaAtualizada>
+	<statusTermoRecusaCadastroDomiciliarAtencaoBasica xmlns="">false</statusTermoRecusaCadastroDomiciliarAtencaoBasica>
+</cadastroDomiciliarTransport>
